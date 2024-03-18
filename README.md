@@ -1,1 +1,1 @@
-# pyhton_project_for_study
+# python_project_for_study
